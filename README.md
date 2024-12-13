@@ -31,6 +31,12 @@ The project consists of the following components:
 3. **Data Storage**: AWS DynamoDB table for storing processed data.
 4. **Visualization**: Grafana dashboard displaying data from CloudWatch metrics.
 
+## Grafana Visualization
+
+The following is a snapshot of the Grafana dashboard visualizing the data retrieved from the SMHI API:
+
+![Grafana Dashboard](images/grafana_dashboard.png)
+
 ---
 
 ## Prerequisites

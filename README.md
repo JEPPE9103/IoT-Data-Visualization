@@ -22,7 +22,7 @@ This project retrieves weather data from the SMHI API, processes it via an AWS L
 
 ## Architecture
 
-*(Add your architecture diagram here - for example, a flow diagram showing SMHI API → AWS Lambda → DynamoDB → Grafana.)*
+![Architecture Diagram](./assets/architecture.png)
 
 The project consists of the following components:
 

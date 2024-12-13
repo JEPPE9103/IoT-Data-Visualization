@@ -35,7 +35,7 @@ The project consists of the following components:
 
 The following is a snapshot of the Grafana dashboard visualizing the data retrieved from the SMHI API:
 
-![Grafana Dashboard](images/grafana_dashboard.png)
+![Grafana Dashboard](assets/grafana_dashboard.png)
 
 ---
 
